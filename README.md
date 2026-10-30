@@ -3,7 +3,7 @@
 **Data Science & Analytics student @ Seneca Polytechnic** · Toronto, Canada<br>
 Junior Data Analyst @ CPE · Burmese/English interpreter
 
-🔎 **Open to Summer 2027 co-op roles** (finance, banking, investment, risk & fraud analysis, management)
+ **Open to Summer 2027 co-op roles** (finance, banking, investment, risk & fraud analysis, management)
 
 ---
 
