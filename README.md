@@ -1,4 +1,4 @@
-# Hi, I'm Ei Htoo Khaing 👋
+# Hi, I'm Ei Htoo Khaing 
 
 **Data Science & Analytics student @ Seneca Polytechnic** · Toronto, Canada<br>
 Junior Data Analyst @ CPE · Burmese/English interpreter
@@ -7,7 +7,7 @@ Junior Data Analyst @ CPE · Burmese/English interpreter
 
 ---
 
-### 🧰 What I work with
+### What I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -22,7 +22,7 @@ Junior Data Analyst @ CPE · Burmese/English interpreter
 
 ---
 
-### 📌 Featured projects
+### Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -34,6 +34,6 @@ Junior Data Analyst @ CPE · Burmese/English interpreter
 
 ---
 
-### 📫 Let's connect
+### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e2-/)
